@@ -5,7 +5,7 @@
 Este é um jogo da cobrinha básico desenvolvido em Python usando a biblioteca Pygame. O jogo envolve controlar uma cobrinha que se move pela tela e deve comer a comida para crescer. O jogo termina quando a cobrinha colide com as bordas da tela ou com seu próprio corpo.
 
 <h2>Requisitos</h2><br>
-•	Python 3.x
+•	Python 3.x <br>
 •	Pygame
 
 <h2>Instalação</h2><br>
